@@ -44,3 +44,12 @@ No need to say, but the number of available books and the list of borrowed books
 >      ...
 
 --------------------------------------------------------------------------------------------------------------------------
+
+>      memberStat
+<b>6-</b> By this command, a summary of the status of members (contains a list of borrowed books) with below format will be displayed. 
+
+>      [member_name1] [id1] [[book1_name] [book1_id] - [book2_name] [book2_id] - ... ]
+>      [member_name2] [id2] [[book1_name] [book1_id] - [book2_name] [book2_id] - ... ]
+>      ...
+
+--------------------------------------------------------------------------------------------------------------------------
