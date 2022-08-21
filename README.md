@@ -21,12 +21,17 @@
 --------------------------------------------------------------------------------------------------------------------------
 
 >      get [member_id] [book_id]
-<b>3-</b> By running this, a book with 'book_id' is lent to a member with 'member_id'. If the number of borrowed books has reached to maximum 5,
+<b>3-</b> By running this, a book with id: 'book_id' is lent to a member with id: 'member_id'. If the number of borrowed books has reached to maximum 5,
 
 >      MaxReached : [member_name] [member_id]
 Above message will be displayed. At least one book must be available and if not, the below message will be shown: 
 
 >      NotAvailable : [book_name] [book_id]
 No need to say, but the number of available books and the list of borrowed books will be updated by related command.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+>      return [member_id] [book_id]
+<b>4-</b> A member with id: 'member_id' returns a book with id: 'book_id'. 
 
 --------------------------------------------------------------------------------------------------------------------------
