@@ -35,3 +35,12 @@ No need to say, but the number of available books and the list of borrowed books
 <b>4-</b> A member with id: 'member_id' returns a book with id: 'book_id'. 
 
 --------------------------------------------------------------------------------------------------------------------------
+
+>      bookStat
+<b>5-</b> By this command, a summary of the status of books with below format will be displayed. 
+
+>      [name1] [id1] [count1]
+>      [name2] [id2] [count2]
+>      ...
+
+--------------------------------------------------------------------------------------------------------------------------
