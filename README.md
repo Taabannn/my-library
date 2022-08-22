@@ -27,7 +27,7 @@
 Above message will be displayed. At least one book must be available and if not, the below message will be shown: 
 
 >      NotAvailable : [book_name] [book_id]
-No need to say, but the number of available books and the list of borrowed books will be updated by related command.
+No need to say, but the number of available books and the list of borrowed books will be updated related to running command.
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ No need to say, but the number of available books and the list of borrowed books
 --------------------------------------------------------------------------------------------------------------------------
 
 >      bookStat
-<b>5-</b> By this command, a summary of the status of books with below format will be displayed. 
+<b>5-</b> By this command, a summary of the status of the books in below format will be displayed. 
 
 >      [name1] [id1] [count1]
 >      [name2] [id2] [count2]
@@ -46,7 +46,7 @@ No need to say, but the number of available books and the list of borrowed books
 --------------------------------------------------------------------------------------------------------------------------
 
 >      memberStat
-<b>6-</b> By this command, a summary of the status of members (contains a list of borrowed books) with below format will be displayed. 
+<b>6-</b> By this command, a summary of the status of the members (contains a list of borrowed books) in below format will be displayed. 
 
 >      [member_name1] [id1] [[book1_name] [book1_id] - [book2_name] [book2_id] - ... ]
 >      [member_name2] [id2] [[book1_name] [book1_id] - [book2_name] [book2_id] - ... ]
